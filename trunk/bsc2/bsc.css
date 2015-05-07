@@ -1,0 +1,32 @@
+/*###  Config file Header  Start###*/
+#contentMain1{
+	
+	width:auto;
+	height:auto;
+	}
+	#contentMain1 #contentL{
+	
+	width:200px;
+	height:200px;
+	float:left;
+	}
+	#contentMain1 #contentR{
+	
+	width:750px;
+	height:200px;
+	float:right;
+	}
+	#contentMain1 #contentR #contentDetail{
+	border:2px solid #cccccc;
+	padding:20px;
+	margin:auto;
+	width:500px;
+	margin-top:30px;
+	height:auto;
+	border-radius:5px;
+	background-color:#63f763;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	}
+/*### Config file   Header End###*/

@@ -1,0 +1,12 @@
+#tooltip{
+			width:auto;
+			height:auto;
+			position:absolute;
+			z-index:10;
+			background:white;
+			display:none;
+			border-radius:5px;
+			border:1px solid #cccccc;
+			cursor:pointer;
+			padding:5px;
+}

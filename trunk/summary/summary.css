@@ -1,0 +1,407 @@
+
+.content{
+width:960px;
+margin:auto;
+}
+.content #row1{
+width:inherit;
+height:365px;
+
+}
+.content #row1 #boxL{
+width:645px;
+float:left;
+height:316px;
+}
+.content #row1 #boxR{
+width:321px;
+float:left;
+height:360px;
+border-radius:5px;
+border: 1px solid #cccccc;
+margin:1px;
+}
+.content #row2{
+width:inherit;
+height:auto;
+border-radius:5px;
+/*border: 1px solid #cccccc;*/
+
+}
+.content #row2 #boxL{
+width:645px;
+float:left;
+height:auto;
+}
+.content #row2 #boxR{
+width:320px;
+float:left;
+height:auto;
+border-radius:5px;
+border: 1px solid #cccccc;
+margin-left:1px;
+}
+
+.content #row1 #boxR #mainContent #head{
+background-color:#99CCFF;
+border-radius:5px;
+margin:1px;
+
+	
+}
+.content #row1 #boxR #mainContent #head #title{
+padding:5px;
+text-align:center;
+font-weight:bold;
+color:black;
+}
+
+.content #row1 #boxR #mainContent #content{
+
+padding:2px;
+height:170px;
+
+}
+.content #row1 #boxR #mainContent #content #contentL{
+border:1px solid #cccccc;	
+width:49%;
+float:left;
+}
+.content #row1 #boxR #mainContent #content #contentL #head{
+border:1px solid #cccccc;
+height:20px;
+
+}
+.content #row1 #boxR #mainContent #content #contentL #head #title{
+padding:5px;
+text-align:center;
+font-weight:bold
+}
+.content #row1 #boxR #mainContent #content #contentL #content{
+
+height:30px;
+margin:1px;
+padding:1px;
+font-size:11px;
+}
+.content #row1 #boxR #mainContent #content #contentL #content #l{
+float:left;
+width:40%;
+}
+.content #row1 #boxR #mainContent #content #contentL #content .r{
+float:right;
+width:59%;
+text-align:right;
+}
+
+
+
+.content #row1 #boxR #mainContent #content #contentR{
+
+border:1px solid #cccccc;	
+width:49%;
+float:right;
+padding:0px;
+
+}
+.content #row1 #boxR #mainContent #content #contentR #head{
+border:1px solid #cccccc;
+height:20px;
+}
+.content #row1 #boxR #mainContent #content #contentR #head #title{
+padding:5px;
+text-align:center;
+font-weight:bold
+}
+.content #row1 #boxR #mainContent #content #contentR #content{
+
+height:30px;
+margin:1px;
+padding:1px;
+font-size:11px;
+}
+
+.content #row1 #boxR #mainContent #content #contentR #content #l{
+float:left;
+width:40%;
+}
+.content #row1 #boxR #mainContent #content #contentR #content .r{
+float:right;
+width:60%;
+text-align:right;
+}
+
+
+.content #row1 #boxR #mainContent #bottom{
+
+
+height:auto;
+clear:both;
+padding-left:2px;
+
+}
+.content #row1 #boxR #mainContent #bottom #title{
+padding-top:0px;
+margin-top:2px;
+text-align:center;
+font-weight:bold;
+
+
+}
+
+/*### Sub Content2 Stop ###*/
+
+/*### Sub Content3 Start ###*/
+
+.content #row2 #boxL> #head{
+background:#008EC3  ;
+width:100%;
+font-weight:bold;
+color:white;
+border:1px solid #ffffff;
+border-radius:5px;
+margin-top:2px;
+
+}
+.content #row2 #boxL> #head  #title{
+padding:5px;
+text-align:center;
+font-weight:bold;
+}
+
+.content #row2 #boxL #mainContent{
+
+clear:both;
+height:300px;
+
+}
+.content #row2 #boxL #mainContent #contentL{
+width:49.50%;
+float:left;
+height:300px;
+border:1px solid #cccccc;
+border-radius:5px;
+margin-left:2px;
+
+}
+.content #row2 #boxL #mainContent #contentL #head{
+border:1px solid #ffffff;
+border-radius:5px;
+background-color:#99ccff ;
+position:relative;
+z-index:20;
+
+
+
+}
+.content #row2 #boxL #mainContent #contentL #head  #title{
+padding:5px;
+
+text-align:center;
+font-weight:bold;
+}
+
+
+.content #row2 #boxL #mainContent #contentL #content{
+
+}
+.content #row2 #boxL #mainContent #contentL #content #contentTop{ 
+height:139px;
+width:100%;
+padding-left:1px;
+z-index:20px;
+
+
+}
+.content #row2 #boxL #mainContent #contentL #content #contentBottom{ 
+height:100px;
+width:100%;
+padding-left:1px;
+}
+.content #row2 #boxL #mainContent #contentL #content #contentBottom #titleTop{ 
+/*margin:5px;*/
+width:307px;
+z-index:2;
+position:absolute;
+background-color:#99ccff ;
+padding:5px;
+margin-top:-50px;
+font-weight:bold;
+text-align:center;
+
+}
+
+
+
+
+
+
+.content #row2 #boxL #mainContent #contentR{
+width:49.4%;
+float:right;
+height:300px;
+border:1px solid #cccccc;
+border-radius:5px;
+padding:0px;
+
+}
+.content #row2 #boxL #mainContent #contentR #head{
+border:1px solid #ffffff;
+/*border-radius:5px;*/
+background-color:#99ccff ;
+z-index:2;
+position:relative;
+top:114px;
+
+
+
+
+}
+.content #row2 #boxL #mainContent #contentR #head #title{
+padding:5px;
+text-align:center;
+font-weight:bold;
+z-index:2;
+position:relative;
+
+}
+
+.content #row2 #boxL #mainContent #contentR  #content{
+
+}
+
+.content #row2 #boxL #mainContent #contentR #content #contentTop{ 
+height:115px;
+width:100%;
+padding-left:1px;
+}
+.content #row2 #boxL #mainContent #contentR #content #contentTop #title{ 
+
+margin:5px;
+width:110px;
+z-index:2;
+position:relative;
+background-color:#cccccc;
+border-radius:5px;
+border:1px solid #cccccc;
+margin-left:180px;
+top:-30px;
+
+}
+
+
+.content #row2 #boxL #mainContent #contentR #content #contentBottom{ 
+height:140px;
+width:100%;
+padding-left:1px;
+}
+.content #row2 #boxL #mainContent #contentR #content #contentBottom #title{ 
+background-color:#99ccff ;
+padding:5px;
+width:308px;
+z-index:2;
+position:absolute;
+margin:0px;
+margin-top:-24px;
+border-radius:5px;
+}
+/*### Sub Content3 Stop ###*/
+
+
+/*### Sub Content4 Start ###*/
+.content #row2 #boxR > #head{
+background:#008EC3;
+width:99.5%;
+border-radius:5px;
+margin:1px;
+color:white;
+}
+.content #row2 #boxR > #head #title{
+padding:5px;
+text-align:center;
+font-weight:bold;
+}
+.content #row2 #boxR > #mainContent{
+
+width:100%;
+height:302px;
+}
+.content #row2 #boxR > #mainContent #contentTop{
+
+width:100%;
+height:118px;
+padding:0px;
+}
+.content #row2 #boxR > #mainContent #contentTop #contentR{
+float:right;
+width:44%;
+
+}
+.content #row2 #boxR > #mainContent #contentTop #contentL #head{
+width:auto;
+
+}
+.content #row2 #boxR > #mainContent #contentTop #contentL #head #title{
+padding:5px;
+background-color:#99ccff;
+margin:2px;
+font-weight:bold;
+}
+.content #row2 #boxR > #mainContent #contentTop #contentR #content{
+padding:0px;
+width:167px;
+
+}
+
+.content #row2 #boxR > #mainContent #contentTop #contentL{
+float:right;
+width:55%;
+z-index:5;
+position:relative;
+left:-2px;
+border:1px solid #cccccc;
+
+border-radius:5px;
+
+
+
+
+}
+.content #row2 #boxR > #mainContent #contentBottom{
+width:100%;
+padding-left:2px;
+
+
+}
+.content #row2 #boxR > #mainContent #contentBottom #titleBottom{
+padding:5px;
+background:#99ccff  ;
+/*margin-left:5px;*/
+margin-right:5px;
+color:black;
+font-weight:bold;
+position:relative;
+text-align:center;
+}
+.content #row2 #boxR > #mainContent #contentBottom #contentBottom{
+width:100%;
+padding-left:10px;
+
+
+}
+/*### Sub Content4 Stop ###*/
+
+/*### SET PIE3###*/
+#piehr2{
+top:-80px;
+}
+#piehr3{
+top:-20px;
+}
+#piehr{
+   top: -20px;
+  /*z-index: 0;*/
+}
+#lineChartHr{
+top: -34px;
+}

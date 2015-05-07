@@ -1,0 +1,248 @@
+
+#MAIN{
+   position:absolute; 
+   top:10px;
+   /* top:70px; มี Tab*/
+}
+#MAJ{
+   color:#FFF; 
+   font-size:16px;
+   position:absolute; 
+   left:20px; 
+   width:300px;
+}
+#YEAR{
+   color:#000;
+   font-size:16px;
+   position:absolute; 
+   left:300px; 
+   width:100px;
+}
+#MONTH{
+   color:#000;
+   font-size:16px;
+   position:absolute; 
+   left:400px; 
+   width:190px;
+}
+#UNIT{
+   color:#000;
+   font-size:16px;
+   font:color:#FFFFFF;
+   position:absolute; 
+   left:520px; 
+   width:200px;
+}
+#tabs{
+   position:absolute; 
+   top:50px;
+   left:20px; 
+   width:1090px; 
+   height:300px; 
+}
+.TAB{
+  position:absolute;
+  width:1050px; 
+  height:235px; 
+  font-family:Tahoma;
+  overflow: auto;
+}
+.GS1{
+  position:absolute; left:30px; top:25px;
+}
+.GS2{
+  position:absolute; left:560px; top:25px;
+}
+.GS3{
+  position:absolute; left:10px; top:7px;
+}
+.GS4{
+  position:absolute; left:10px; top:20px;
+}
+.GS5{
+  position:absolute; left:4px; top:15px;
+}
+.GSpi{
+  position:absolute; left:20px; top:25px;
+}
+.GSpis{
+  position:absolute; left:10px; top:25px;
+}
+.GSTa{
+  position:absolute; left:12px; 
+}
+.GROUP{
+   position:absolute;
+}
+.Gsp3{
+  position:absolute; left:20px; top:25px;
+}
+.Gsp4{
+  position:absolute; left:550px; top:25px;
+}
+#tabsH{
+   position:absolute; 
+  /* top:520px;  มี Tab*/
+   top:360px;
+   left:20px; 
+   width:540px; 
+   height:300px; 
+   background-color:#FFFFFF; 
+}
+#tabsGET{
+   position:absolute; 
+   top:670px; 
+   left:570px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+#tabsG{
+   position:absolute; 
+   top:670px; 
+   left:20px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+#tabsGS{
+   position:absolute; 
+   top:1290px; 
+   left:20px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+#tabsGETS{
+   position:absolute; 
+   top:1290px; 
+   left:570px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+#tabsL{
+   position:absolute; 
+   top:1600px; 
+   left:20px; 
+   width:1090px; 
+   height:300px; 
+   background-color:#F99;
+}
+#tabsLAST{
+   position:absolute; 
+   top:1600px; 
+   left:570px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+.inCHART{
+  position:absolute; 
+  width:810px; 
+  height:395px; 
+  overflow: auto;
+}
+#tabsPir{
+   position:absolute; 
+   top:1280px; 
+   left:20px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+#tabsPirs01{
+   position:absolute; 
+   top:1280px; 
+   left:570px; 
+    width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+.inPir{
+   position:absolute; 
+   width:376px; 
+   height:268px; 
+   overflow: auto;
+}
+#tabsTABLE{
+   position:absolute; 
+   top:360px; 
+   left:570px; 
+   width:540px; 
+   height:300px; 
+}
+.inTa{
+   position:absolute; 
+   width:627px; 
+   height:610px; 
+   overflow: auto;
+}
+#tabspiano{
+   position:absolute; 
+   top:980px; 
+   left:20px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+.inpiano{
+   background:#CCCCCC;
+   position:absolute; 
+   width:1050px; 
+   height:343px; 
+}
+#tabsLine{
+   position:absolute; 
+   top:980px; 
+   left:570px; 
+   width:540px; 
+   height:300px; 
+   background-color:#F99;
+}
+.inLine{
+   position:absolute; 
+   width:1050px; 
+   height:333px; 
+   overflow: auto;
+}
+.top{
+  position:absolute; left:30px; top:2px;
+}
+.size{
+  position:absolute; left:20px; top:2px;
+}
+.sizeTa{
+  position:absolute; left:630px; top:2px;
+}
+.sizeLine{
+  position:absolute; left:10px; top:2px;
+}
+.slx{
+  position:absolute; left:10px; top:2px;
+}
+.slx4{
+  position:absolute; left:600px; top:10px;
+}
+/* Css of Tukta */
+#YEAR1{
+   color:#FFF;
+   font-size:16px;
+   position:absolute; 
+   left:20px; 
+   width:100px;
+}
+#MONTH1{
+   color:#FFF;
+   font-size:16px;
+   position:absolute; 
+   left:140px; 
+   width:190px;
+}
+#SUMMARYBY{
+   color:#FFF;
+   font-size:16px;
+   position:absolute; 
+   left:280px; 
+   width:190px;
+}

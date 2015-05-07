@@ -1,0 +1,139 @@
+.content{
+width:970px;
+height:auto;
+/*background:red;*/
+margin:auto;
+}
+.content  #row1{
+width:970px;
+height:auto
+background:blue;
+clear:both;
+
+
+}
+.content  #row1 .box{
+width:300px;
+height:270px;
+float:left;
+margin:2px;
+border-radius:5px;
+   /* background: url("images/ui-bg_highlight-hard_100_f2f5f7_1x100.png") repeat-x scroll 50% top #ffffff;*/
+    border: 1px solid #DDDDDD;
+    color: #362B36;
+}
+.content  #row1 .box #head{
+/*width:auto;
+height:30px ;
+background:#99ccff;
+*/
+   /*background: none repeat scroll 0 0 #DEEDF7;*/
+    border-radius: 5px 5px 5px 5px;
+    color: #2779AA;
+    height: 26px;
+    margin: 3px;
+    padding: 5px;
+    width: auto;
+	background-image:url("images/ui-bg_highlight-soft_100_deedf7_1x100.png") repeat-x scroll  50% 50%  #DEEDF7;
+    border: 1px solid #AED0EA;
+
+}
+.content  #row1 .box #head .title{
+	padding:5px;
+	text-align:center;
+	
+}
+.content  #row1 .box #body{
+width:auto;
+height:250px;
+
+}
+.content #row2{
+width:970px;
+height:300px;
+
+clear:both;
+
+
+}
+
+
+.content #row2 #boxL{
+width:630px;
+height:300px;
+border:1 solid blue;
+
+float:left;
+}
+.content #row2 #boxL #box{
+width:308px;
+height:300px;
+float:left;
+margin:2px;
+border-radius:5px;
+border:1px solid #cccccc;
+}
+.content #row2 #boxL #box #head{
+width:auto;
+height:30px ;
+background:#cccccc;
+
+}
+.content #row2 #boxL #box  #head #title{
+	padding:5px;
+	text-align:center;
+}
+
+
+
+.content #row2 #boxL #box  #body{
+width:auto;
+height:270px;
+
+}
+
+
+.content #row2 #boxR{
+
+width:630px;
+height:300px;
+border:1 solid blue;
+float:left;
+
+}
+.content #row2 #boxR #box{
+height:300px;
+float:left;
+margin:2px;
+width:630px;
+border-radius:5px;
+border:1px solid #cccccc;
+background:#EBEBEB;
+
+}
+.content #row2 #boxR #box #head{
+width:auto;
+height:30px ;
+background:#cccccc;
+}
+.content #row2 #boxR #box #head #title{
+	padding:5px;
+	text-align:center;
+}
+.content #row2 #boxR  #box #body{
+width:auto;
+height:310px;
+background:#ffffff;
+
+}
+#tabHr1{
+height:250px;
+}
+#pie1{
+ top: -10px;
+  left: -20px;
+}
+#pie11{
+ top: -10px;
+  left: -20px;
+}

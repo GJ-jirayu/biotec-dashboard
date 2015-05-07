@@ -1,0 +1,144 @@
+#content {
+
+width:960px;
+margin:auto;
+}
+/*### Row1 Start ###*/
+#content #row1{
+
+width:960px;
+height:330px;
+}
+
+#content #row1 #column11 .head{
+
+
+
+}
+#content #row1 #column11 .head .title{
+
+text-align:center;
+background-color:#99ccff ;
+border-radius:5px;
+font-weight:bold;
+padding-left:5px;
+margin:1px;
+position: relative;
+z-index: 200;
+}
+#content #row1 #column11 .content{
+border:1px solid #cccccc;
+height:280px;
+padding:5px;
+border-radius:5px;
+}
+/*### Row1 End ###*/
+
+/*### Row2 Start ###*/
+#content #row2{
+
+width:960px;
+height:auto;
+padding-bottom:5px;
+}
+#content #row2 #column21{
+width:100%;
+
+}
+#content #row2 #column21 #row211{
+
+}
+#content #row2 #column21 #row211 .head{
+
+
+
+
+}
+#content #row2 #column21 #row211 .head .title{
+text-align:center;
+border-radius:5px;
+background-color:#cccccc;
+padding:5px;
+font-weight:bold;
+}
+#content #row2 #column21 #row212 .content{
+
+width:100%;
+height:auto;
+
+
+
+}
+#content #row2 #column21 #row212 #bg5{
+
+width:99%;
+height:385px;
+border-radius:5px;
+border:1px solid #cccccc;
+padding:5px;
+
+
+
+}
+#content #row2 #column21 #row212 .content #contentL{
+float:left;
+width:49.5%;
+height:inherit;
+border:1px solid #cccccc;
+border-radius:5px;
+margin:1px;
+
+
+}
+#content #row2 #column21 #row212 .content #contentR{
+float:right;
+width:49.5%;
+border:1px solid #cccccc;
+height:inherit;
+border-radius:5px;
+margin:1px;
+}
+
+/*### Row2 End ###*/
+
+/*### Manage Table Start ###*/
+.projectHead1{
+background-color:#008EC3   ;
+padding:5px;
+color:white;
+
+}
+.projectHead{
+background-color:#99ccff    ;
+color:black;
+font-weight:bold;
+padding:5px;
+
+}
+.projectName{
+padding:2px;
+padding-left:10px;
+
+}
+.projectValue{
+
+padding-left:10px;
+
+}
+.projectValue .percentage{
+padding-top:5px;
+width:30px;
+
+float:left;
+
+}
+.projectValue .value{
+
+float:left;
+width:100px;
+padding-top:5px;
+padding-left:25px;
+
+
+}
+/*### Manage Table End ###*/
